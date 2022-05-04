@@ -1,0 +1,5 @@
+../src/gpp_testing.c:19:6:GPIOinitOut	16	static
+../src/gpp_testing.c:39:6:GPIOinitInput	16	static
+../src/gpp_testing.c:58:6:setGPIO	16	static
+../src/gpp_testing.c:73:6:clearGPIO	16	static
+../src/gpp_testing.c:87:5:main	24	static
